@@ -1,0 +1,46 @@
+#Shops{
+	position: relative;
+	float: left;
+}
+div.jewellGallery {
+    margin: 5px;    
+    float: left;
+    width: 180px;
+
+}
+div.jewellGallery:hover {
+   
+}
+
+div.jewellGallery img {
+    width: 100%;
+    height: auto;
+}
+
+div.desc {
+    padding: 15px;
+    text-align: center;
+}
+
+div.sponsoredEvents {
+    margin: 5px;    
+    float: left;
+    width: 180px;
+    
+}
+div.sponsoredEvents:hover {
+   
+}
+
+div.sponsoredEvents img {
+    width: 100%;
+    height: auto;
+}
+
+#Events{
+	position: relative;
+	float: left;
+}
+.buttonBuy{
+	text-align: center;
+}
